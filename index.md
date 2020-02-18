@@ -16,21 +16,4 @@
 
 如果您有任何问题或者建议，敬请邮件至809625592@qq.com
 
-```markdown
-Syntax highlighted code block
-
-# TinyCard
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
